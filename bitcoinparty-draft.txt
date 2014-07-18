@@ -1,0 +1,144 @@
+Draft for a bitcoin party
+
+This should be an informal event for everyone from experts, VCs to total novices and crypto illiterate.
+Smaller groups in different corners of the room or in different rooms of the venue should be used to concentrate on different
+topics rather than a frontal beamer-school like model. It doenst mean that a beamer cant be used for some explaining or maybe
+at the introduction but this should never be the main way to explain things. We should concentrate on learning by doing and trying
+only to explain theory as we go on with the practical steps. For an “outsider” it is typically easier to understand when you have
+it in your hand and then talk about it as to listen someone talk about it in theory. Ok lets get down to it..
+
+What you need:
+Laptop with QT and Multibit
+SECURE wifi
+Android device
+People
+
+After a short introduction the first step would be to divide up into smaller groups.
+For example:
+1. Total newbie, no practical contact with bitcoin and/or never really has heard of it. Never downloaded a wallet and has never done a transaction.
+Question: Who wants to learn how to use bitcoin?
+
+2.  Beginner, has a wallet (even if it is online) and maybe has visited some faucets, friend sent him some bitcoin ect.
+Question: Who has some experience with bitcoin and wants to learn more about: different clients, cold storage, multisig?
+
+3. User, has bitcoin qt or another full client. Has done some transactions ect
+These people could help others
+Question: Who is comfortable showing people how to download a client and how to do a transaction?
+
+4. Whoever wants to form another group to discuss X is welcome to form there other group
+
+– Everyone is free to walk around and visit other groups, ask questions and join in–
+
+Ok, now lets talk about what do to in each small group
+yea we are going to use windows for now, linux adaptation almost requires its own “party”
+
+-Download Multibit to PC or USB stick
+
+Although this is not the full client I do not see an alternative ATM. Otherwise everyone would have to download the whole blockchain which can
+take a while. ((*The “teacher” or “guide” does need to have QT ready to go to show it later.))
+
+Downloading and installing multibit needs to be done step for step as if you were holding someone´s hand. You can guide
+people to the download page and if anyone has trouble then go around and help them find their download folder ect.
+
+-Next would be showing people how to get to there “app data” folder which is hidden in windows (can be skipped when downloading directly to a usb stick)
+
+Show and explain these steps
+For now a public address can be a “account number” and the private address the “PIN” or if you have another analogy then go for it.
+
+Slowly show these steps, offer to answer theoretical questions at the end, many questions are answered after theses
+steps are completed: “Ahh!” effect.
+
+-Show the public address
+-Show where the private address is located
+-Disconnect from internet
+-Generate a new address
+-Password protect the address
+-Connect to internet
+
+Now we need to send the users some bitcoin form our party stash. Or they could even buy some from us.
+People can email, tweet their public address.
+BAAM they have some bitcoin!
+
+Now lets check out the block chain!
+
+-Send users to blockchain.info
+-Tell them to enter their public address to trace the transaction
+-Remind them that this is in the blockchain FOREVER
+(this often produces an AHHHH!)
+
+Ok, maybe in the meantime the transactions have been confirmed.
+
+Now have everyone create an account at blockchain.info
+We are going to have to explain some basics about 2FA and security (not sure the best vs. quickest way to explain this)
+MAYBE recommend just using the blockchain.info email 2FA first, without getting into QR code 2FA google Auth ect. (that can be in the second group, they can visit that group
+when they are finished with this one)
+
+Now they should send bitcoin to themselves! From the multibit client to the blockchain.info wallet!
+Probably you will have to guide them a little bit but blockchain.info is pretty good for newbies.
+
+Now if anyone has an android device then they can download mecyluim or the blockchain.info app and do another transaction
+with you or someone in the group.
+
+Now you have more time for questions
+The safety of the private keys needs to be talked about again
+
+After this “lesson” people should be able to do bitcoin transactions and trace them on the blockchain  using blockchain.info
+Suggest that they download QT at home and send QT some bitcoin from their blockchain.info wallet ect.
+
+–
+Now we can “role play” a P2P transaction fiat-btc
+This is important to show that we do not -need- exchanges or third parties for bitcoin to work.
+Demonstrate a friendly P2P transaction between two people that know each other
+
+–below this line needs to be developed more before being included imho–
+-
+This can be connected with how to use localbitcois.com & use of localbitcoins escrow
+
+I also think we need to develop a kind of protocol for P2P transactions without using localbitcoins escrow
+Who gets what first? Coins or Fiat in hand?
+Agreement on how many confirmations
+Buyer needs to bring QR code
+Public meeting place
+
+Issues I see:
+Counterfeit fiat
+Man in the middle attack
+Use of insecure wifi
+
+—!!!—
+To empower people we need to show them how they can use a wallet, track transactions and do p2p transactions without a third party
+Those are the three goals. I think we need a different group for cold storage.
+—!!!—
+
+Group 2
+Group 2 can talk about cold storage, 2FA, Multisig
+-Explain safety issues while generating private keys for paper wallets
+-Encrypted paper wallets vs. unencrypted
+-Demonstrate
+Either you need a secure computer and a printer, piper, or premade paper wallets (however people shouldn’t trust premade wallets for large amounts,
+only for testing)
+
+More advanced
+-Armory total offline
+-Trezor
+
+-coinjoin
+-mixers
+
+–
+The amount of groups also depends on the number of “guides” ,but since it is open to all levels then there could
+be people that come to the event that help out new people and also contribute to the more advanced discussions and groups
+
+The party can also have some quiet(so you can speak over it easily) music in the background to create the “party” atmosphere to loosen things up.
+There should also be drinks available, perhaps the venue would host the event for free and people could support the venue by buying a few drinks.
+
+There could also be some “games” that could typically be played at a bitcoin party such as the “fiat leak drinking game” “blockchain lotto”
+Or people can “flirt” or “get married” using armory.
+Maybe someone can develop a card game or something easy and fun that uses the concepts of the blockchain.
+Other expansions could include DJs, live acts, or crypto stand up at the end of the “work” part of the party.
+
+There also needs to be a kids program but this needs a separate brainstorming
+
+Please comment with suggestions and edits,  feel free to copy and use
+
+-Theo
